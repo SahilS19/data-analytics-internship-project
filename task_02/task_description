@@ -1,1 +1,84 @@
+# 📊 Amazon Sales Data Analysis & Forecasting
+
+## 🚀 Project Overview
+
+This project focuses on analyzing e-commerce sales data and predicting future sales trends using advanced data analytics and machine learning techniques.
+
+---
+
+## 📁 Dataset
+
+* 100,000+ records of Amazon-style sales data
+* Features include product details, pricing, location, and order dates
+
+---
+
+## 🧹 Data Cleaning
+
+* Handled missing values and duplicates
+* Standardized column names
+* Converted date formats
+* Removed outliers for accurate forecasting
+
+---
+
+## 📊 Exploratory Data Analysis (EDA)
+
+* Identified top-selling products and categories
+* Analyzed monthly and yearly sales trends
+* Evaluated regional performance
+
+---
+
+## 🔮 Forecasting Models
+
+* ARIMA (Time Series Forecasting)
+* Prophet (Advanced Forecasting with Seasonality)
+
+---
+
+## 🤖 Machine Learning
+
+* Built regression model to predict sales
+* Evaluated model performance using R² score
+
+---
+
+## 📊 Dashboard
+
+* Developed Power BI dashboard with:
+
+  * KPI metrics
+  * Sales trends
+  * Product insights
+  * Forecast visualization
+
+---
+
+## 🛠 Tools & Technologies
+
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Machine Learning (Scikit-learn)
+* Forecasting (ARIMA, Prophet)
+* Power BI
+
+---
+
+## 📈 Key Insights
+
+* Identified peak sales periods
+* Found high-performing products and regions
+* Predicted future sales trends for business planning
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates end-to-end data analysis, forecasting, and dashboard creation, providing valuable business insights.
+
+---
+
+## ⭐ Author
+
+Sarthak Raj
 
